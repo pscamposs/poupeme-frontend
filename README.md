@@ -1,36 +1,45 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">Poupeme Frontend</h1>
 
-## Getting Started
+<p align="center">
+  <b>Frontend para um serviço de encurtador de links.</b>
+</p>
 
-First, run the development server:
+<p align="center">
+  <a href="#sobre">Sobre</a> •
+  <a href="https://github.com/pscamposs/poupeme-backend">Backend do Projeto</a> •
+  <a href="#tecnologias-utilizadas">Tecnologias Utilizadas</a> •
+  <a href="#como-usar">Como Usar</a> •
+  <a href="#licença">Licença</a> •
+  <a href="#contato">Contato</a>
+</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Sobre
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+O "Poupeme Frontend" é a interface de usuário para um serviço de encurtador de links. Este projeto foi desenvolvido utilizando Next.js e React para oferecer uma experiência de usuário rápida e responsiva ao criar, gerenciar e redirecionar links encurtados.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Tecnologias Utilizadas
 
-## Learn More
+- Next.js
+- React
+- JavaScript
+- CSS
 
-To learn more about Next.js, take a look at the following resources:
+## Como Usar
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. Certifique-se de ter o Node.js instalado em sua máquina.
+2. Clone este repositório usando `git clone https://github.com/pscamposs/poupeme-frontend.git`.
+3. No terminal, navegue até o diretório do projeto.
+4. Instale as dependências usando `npm install`.
+5. Configure as variáveis de ambiente necessárias para conexão com o backend e outras configurações específicas do ambiente.
+6. Execute o servidor de desenvolvimento usando `npm run dev`.
+7. Acesse o frontend no navegador através do endereço `http://localhost:3000`.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Licença
 
-## Deploy on Vercel
+Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT). Sinta-se à vontade para modificar e usar o código conforme necessário.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Contato
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Para mais informações ou sugestões, entre em contato por e-mail em [pscampos221@gmail.com](mailto:pscampos221@gmail.com) ou visite meu perfil no GitHub [pscamposs](https://github.com/pscamposs).
