@@ -17,7 +17,7 @@
 
 ## Sobre
 
-O "LinkShortener Frontend" é a interface de usuário para um serviço de encurtador de links. Este projeto foi desenvolvido utilizando Next.js e React para oferecer uma experiência de usuário rápida e responsiva ao criar, gerenciar e redirecionar links encurtados.
+O "Poupeme Frontend" é a interface de usuário para um serviço de encurtador de links. Este projeto foi desenvolvido utilizando Next.js e React para oferecer uma experiência de usuário rápida e responsiva ao criar, gerenciar e redirecionar links encurtados.
 
 ## Tecnologias Utilizadas
 
