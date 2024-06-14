@@ -3,7 +3,11 @@ import Link from "next/link";
 
 import { formatDate } from "@/services/dateService";
 
-export default function UrlContainer({ shortData }) {
+export default function UrlContainer({
+  shortData,
+}: {
+  shortData: ShortDataProps;
+}) {
   return (
     <div className=" p-8 w-full">
       <div>

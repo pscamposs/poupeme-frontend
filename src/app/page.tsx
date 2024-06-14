@@ -55,7 +55,7 @@ export default function Home() {
     }
   };
 
-  const handleCopyClipboard = (e) => {
+  const handleCopyClipboard = (e: any) => {
     navigator.clipboard.writeText(shortUrl as string);
   };
   return (

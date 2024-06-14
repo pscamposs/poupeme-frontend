@@ -4,14 +4,6 @@ import UrlContainer from "@/components/UrlsContainer";
 import { useQuery } from "@tanstack/react-query";
 import { SyntheticEvent, useState } from "react";
 
-interface ShortDataProps {
-  originalUrl: string;
-  shortUrl: string;
-  hints: number;
-  title: string;
-  created_at: string;
-}
-
 const fetchShortData = async (shortUrl: string) => {
   if (!shortUrl) return;
 
